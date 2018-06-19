@@ -54,3 +54,8 @@ for j=1:length(z)
     plot([0 d],[0 z(j,2)],'-b');
     
 end
+
+%%
+
+xx = 8;
+
