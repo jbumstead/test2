@@ -54,3 +54,11 @@ for j=1:length(z)
     plot([0 d],[0 z(j,2)],'-b');
     
 end
+
+
+%% Add a new big part
+
+x = 1:10;
+y =2:2:20;
+
+plot(x,y);
